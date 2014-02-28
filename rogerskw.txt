@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello World
+=======
+Changes in iss1.
+>>>>>>> iss1
 
 line line line line
 
